@@ -1,0 +1,8 @@
+{
+  "name": "OMNAv2 Custom Integration Server",
+  "description": "Provides the services to process actions to obtain, establish and analyze the resources of a foreign platform for integration with OMNA eCommerce.",
+  "repository": "https://github.com/cenit-io/omna-v2-integration-template",
+  "logo": "http://omna-v2-integration-template.herokuapp.com/public/images/node.svg",
+  "keywords": ["omna-v2-integration"],
+  "image": "heroku/nodejs"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "omna-v2-integration-template",
+  "version": "1.0.0",
+  "description": "OMNAv2 Custom Integration Server.",
+  "main": "index.js",
+  "engines": {
+    "node": "12.6.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cenit-io/omna-v2-integration-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cenit-io/omna-v2-integration-template/issues"
+  },
+  "homepage": "https://github.com/cenit-io/omna-v2-integration-template",
+  "license": "LGPL-3.0",
+  "licenses": [
+    {
+      "type": "LGPL-3.0",
+      "url": "http://spdx.org/licenses/LGPL-3.0.html#licenseText"
+    },
+    {
+      "type": "EPL-1.0",
+      "url": "http://spdx.org/licenses/EPL-1.0.html#licenseText"
+    }
+  ],
+  "author": {
+    "name": "Yoandry Pacheco Aguila",
+    "email": "yoandrypa@gmail.com"
+  },
+  "dependencies": {
+    "omna-v2-integration-server": "github:cenit-io/omna-v2-integration-server"
+  }
+}
